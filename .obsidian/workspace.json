@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4fc54074dff167f9",
+        "id": "e6d3cc5c164577c1",
         "type": "tabs",
         "children": [
           {
-            "id": "c18d2980350eb97b",
+            "id": "10dbc044aea305be",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
-                "file": ".obsidian/app.json",
+                "file": ".obsidian/workspace.json",
                 "staged": false
               }
             }
@@ -159,6 +159,6 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c18d2980350eb97b",
+  "active": "10dbc044aea305be",
   "lastOpenFiles": []
 }
