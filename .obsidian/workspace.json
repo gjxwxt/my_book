@@ -4,18 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "382182fd2cb588b2",
+        "id": "46b6365300f7168a",
         "type": "tabs",
         "children": [
           {
-            "id": "f5119a6c18bf49e0",
+            "id": "612dc36d06a6b192",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "前端内容整理/知识库/个人笔记整理/mysql基础/mysql高级/eicense-hospital-ui",
-                "staged": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -160,7 +157,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f5119a6c18bf49e0",
+  "active": "612dc36d06a6b192",
   "lastOpenFiles": [
     "note/2024-09-10.md",
     "前端内容整理/知识库/个人笔记整理/js杂货铺1.md",
