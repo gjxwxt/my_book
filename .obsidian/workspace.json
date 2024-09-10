@@ -11,8 +11,11 @@
             "id": "f5119a6c18bf49e0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": "前端内容整理/知识库/个人笔记整理/mysql基础/mysql高级/eicense-hospital-ui",
+                "staged": false
+              }
             }
           }
         ]
