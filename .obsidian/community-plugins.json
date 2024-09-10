@@ -1,4 +1,8 @@
 [
   "obsidian-quiet-outline",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-file-path-to-uri",
+  "calendar",
+  "settings-search",
+  "codeblock-customizer"
 ]

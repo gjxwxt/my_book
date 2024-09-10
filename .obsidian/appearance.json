@@ -1,3 +1,10 @@
 {
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "baseFontSizeAction": true,
+  "baseFontSize": 18,
+  "monospaceFontFamily": "霞鹜文楷 GB 屏幕阅读版 R",
+  "interfaceFontFamily": "霞鹜文楷 GB 屏幕阅读版 R",
+  "textFontFamily": "霞鹜文楷 GB 屏幕阅读版 R",
+  "enabledCssSnippets": [],
+  "cssTheme": ""
 }

@@ -4,18 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e6d3cc5c164577c1",
+        "id": "382182fd2cb588b2",
         "type": "tabs",
         "children": [
           {
-            "id": "10dbc044aea305be",
+            "id": "f5119a6c18bf49e0",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -60,11 +57,12 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabeticalReverse"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -79,7 +77,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c7b4060a4def9eae",
+            "id": "7abe9d15553bbdee",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "91ca5720bc0bdc3a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bb063560a5e253d3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "8673e50cfb41e894",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -95,7 +120,7 @@
             }
           },
           {
-            "id": "94dcf24841ae615e",
+            "id": "93a556ce864f5e90",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -106,42 +131,15 @@
             }
           },
           {
-            "id": "91ca5720bc0bdc3a",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "16aea36f34d83f5a",
+            "id": "c650ae4f50beff52",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {}
             }
-          },
-          {
-            "id": "16bd8f5cbf5b95d9",
-            "type": "leaf",
-            "state": {
-              "type": "quiet-outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "3507060ce45fd32a",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -149,16 +147,66 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
+      "switcher:打开快速切换": true,
+      "graph:查看关系图谱": true,
+      "canvas:新建白板": true,
+      "daily-notes:打开/创建今天的日记": true,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "workspaces:管理工作区布局": false,
+      "command-palette:打开命令面板": true,
+      "workspaces:管理工作区布局": true,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "10dbc044aea305be",
-  "lastOpenFiles": []
+  "active": "f5119a6c18bf49e0",
+  "lastOpenFiles": [
+    "note/2024-09-10.md",
+    "前端内容整理/知识库/个人笔记整理/js杂货铺1.md",
+    "前端内容整理/知识库/个人笔记整理/js杂货铺2.md",
+    "前端内容整理/知识库/个人笔记整理/git开发.md",
+    "前端内容整理/知识库/个人笔记整理/nginx基础知识.md",
+    "前端内容整理/知识库/个人笔记整理/nginx基础02.md",
+    "前端内容整理/知识库/个人笔记整理/k8s.md",
+    "前端内容整理/知识库/个人笔记整理/qiankun微服务.md",
+    "前端内容整理/知识库/个人笔记整理/Ts Challenge.md",
+    "前端内容整理/知识库/个人笔记整理/vue性能优化.md",
+    "note/2024-09-09.md",
+    "前端内容整理/知识库/个人笔记整理/vue细节处理.md",
+    "前端内容整理/知识库/前端每日一题/每日一题.md",
+    "前端内容整理/知识库/个人笔记整理/mysql基础/第18章_MySQL8其它新特性.md",
+    "前端内容整理/知识库/个人笔记整理/mysql基础/RedisCheatSheet-ByGeekHour.pdf",
+    "前端内容整理/知识库/个人笔记整理/jenkins.md",
+    "前端内容整理/知识库/个人笔记整理/mysql基础/综合练习/综合练习4：企业综合SQL笔试.pdf",
+    "前端内容整理/知识库/个人笔记整理/mysql基础/综合练习/综合练习3.pdf",
+    "前端内容整理/知识库/个人笔记整理/mysql基础/综合练习/综合练习2使用：emp.sql",
+    "前端内容整理/知识库/个人笔记整理/mysql基础/综合练习/综合练习2.pdf",
+    "前端内容整理/知识库/个人笔记整理/mysql基础/综合练习/综合练习1.pdf",
+    "前端内容整理/知识库/个人笔记整理/mysql基础/综合练习",
+    "前端内容整理/知识库/个人笔记整理/mysql基础/第17章_触发器.md",
+    "前端内容整理/知识库/个人笔记整理/mysql基础/第16章_变量、流程控制与游标.md",
+    "前端内容整理/知识库/个人笔记整理/mysql基础/第15章_存储过程与函数.md",
+    "前端内容整理/知识库/个人笔记整理/mysql基础/第14章_视图.md",
+    "前端内容整理/知识库/个人笔记整理/mysql基础/第13章_约束.md",
+    "前端内容整理/知识库/个人笔记整理/mysql基础/第12章_MySQL数据类型精讲.md",
+    "前端内容整理/知识库/个人笔记整理/mysql基础/章节练习/第18章_MySQL8其它新特性.pdf",
+    "前端内容整理/知识库/个人笔记整理/mysql基础/章节练习/第17章_触发器.pdf",
+    "前端内容整理/知识库/个人笔记整理/mysql基础/章节练习/第16章_变量、流程控制与游标.pdf",
+    "前端内容整理/知识库/个人笔记整理/mysql基础/mysql高级/资料/尚硅谷_宋红康_MyCat课程讲义.md",
+    "前端内容整理/知识库/个人笔记整理/mysql基础/mysql高级/资料/images/image-20210826171726917.png",
+    "前端内容整理/知识库/个人笔记整理/mysql基础/mysql高级/eicense-hospital-ui/public/img/mock/cli/3.png",
+    "前端内容整理/知识库/个人笔记整理/mysql基础/mysql高级/eicense-hospital-ui/public/img/mock/cli/2.png",
+    "前端内容整理/知识库/个人笔记整理/mysql基础/mysql高级/eicense-hospital-ui/public/img/mock/cli/1.png",
+    "前端内容整理/知识库/个人笔记整理/mysql基础/mysql高级/eicense-hospital-ui/public/img/mock/card/card-4.jpg",
+    "前端内容整理/知识库/个人笔记整理/mysql基础/mysql高级/eicense-hospital-ui/public/img/mock/card/card-3.jpg",
+    "前端内容整理/知识库/个人笔记整理/mysql基础/mysql高级/eicense-hospital-ui/public/img/mock/card/card-2.jpg",
+    "前端内容整理/知识库/个人笔记整理/mysql基础/mysql高级/eicense-hospital-ui/public/img/mock/card/card-1.jpg",
+    "前端内容整理/知识库/个人笔记整理/mysql基础/mysql高级/eicense-hospital-ui/public/util/screen/guge.png",
+    "前端内容整理/知识库/个人笔记整理/mysql基础/mysql高级/eicense-hospital-ui/public/util/screen/huohu.png",
+    "前端内容整理/知识库/个人笔记整理/mysql基础/mysql高级/eicense-hospital-ui/README.md",
+    "前端内容整理/知识库/个人笔记整理/mysql基础/mysql高级/第19章 数据库备份与恢复.md",
+    "前端内容整理/知识库/个人笔记整理/mysql基础/mysql高级/第18章 主从复制.md",
+    "前端内容整理/知识库/个人笔记整理/mysql基础/mysql高级/第17章 其它数据库日志.md",
+    "未命名.canvas",
+    "note/未命名 1.canvas",
+    "note/未命名.canvas"
+  ]
 }
