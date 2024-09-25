@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "46b6365300f7168a",
+        "id": "a98c038b9401ff67",
         "type": "tabs",
         "children": [
           {
-            "id": "612dc36d06a6b192",
+            "id": "f9177484a647bbc3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "个人情况/科普文章/食品添加剂.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -77,6 +81,16 @@
         "type": "tabs",
         "children": [
           {
+            "id": "c650ae4f50beff52",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "个人情况/科普文章/食品添加剂.md"
+              }
+            }
+          },
+          {
             "id": "7abe9d15553bbdee",
             "type": "leaf",
             "state": {
@@ -109,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "个人情况/科普文章/食品添加剂.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,25 +140,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "个人情况/科普文章/食品添加剂.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "c650ae4f50beff52",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,54 +165,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "612dc36d06a6b192",
+  "active": "f9177484a647bbc3",
   "lastOpenFiles": [
-    "note/2024-09-10.md",
-    "前端内容整理/知识库/个人笔记整理/js杂货铺1.md",
-    "前端内容整理/知识库/个人笔记整理/js杂货铺2.md",
-    "前端内容整理/知识库/个人笔记整理/git开发.md",
-    "前端内容整理/知识库/个人笔记整理/nginx基础知识.md",
-    "前端内容整理/知识库/个人笔记整理/nginx基础02.md",
-    "前端内容整理/知识库/个人笔记整理/k8s.md",
-    "前端内容整理/知识库/个人笔记整理/qiankun微服务.md",
-    "前端内容整理/知识库/个人笔记整理/Ts Challenge.md",
-    "前端内容整理/知识库/个人笔记整理/vue性能优化.md",
-    "note/2024-09-09.md",
-    "前端内容整理/知识库/个人笔记整理/vue细节处理.md",
-    "前端内容整理/知识库/前端每日一题/每日一题.md",
-    "前端内容整理/知识库/个人笔记整理/mysql基础/第18章_MySQL8其它新特性.md",
-    "前端内容整理/知识库/个人笔记整理/mysql基础/RedisCheatSheet-ByGeekHour.pdf",
-    "前端内容整理/知识库/个人笔记整理/jenkins.md",
-    "前端内容整理/知识库/个人笔记整理/mysql基础/综合练习/综合练习4：企业综合SQL笔试.pdf",
-    "前端内容整理/知识库/个人笔记整理/mysql基础/综合练习/综合练习3.pdf",
-    "前端内容整理/知识库/个人笔记整理/mysql基础/综合练习/综合练习2使用：emp.sql",
-    "前端内容整理/知识库/个人笔记整理/mysql基础/综合练习/综合练习2.pdf",
-    "前端内容整理/知识库/个人笔记整理/mysql基础/综合练习/综合练习1.pdf",
-    "前端内容整理/知识库/个人笔记整理/mysql基础/综合练习",
-    "前端内容整理/知识库/个人笔记整理/mysql基础/第17章_触发器.md",
-    "前端内容整理/知识库/个人笔记整理/mysql基础/第16章_变量、流程控制与游标.md",
-    "前端内容整理/知识库/个人笔记整理/mysql基础/第15章_存储过程与函数.md",
-    "前端内容整理/知识库/个人笔记整理/mysql基础/第14章_视图.md",
-    "前端内容整理/知识库/个人笔记整理/mysql基础/第13章_约束.md",
-    "前端内容整理/知识库/个人笔记整理/mysql基础/第12章_MySQL数据类型精讲.md",
-    "前端内容整理/知识库/个人笔记整理/mysql基础/章节练习/第18章_MySQL8其它新特性.pdf",
-    "前端内容整理/知识库/个人笔记整理/mysql基础/章节练习/第17章_触发器.pdf",
-    "前端内容整理/知识库/个人笔记整理/mysql基础/章节练习/第16章_变量、流程控制与游标.pdf",
-    "前端内容整理/知识库/个人笔记整理/mysql基础/mysql高级/资料/尚硅谷_宋红康_MyCat课程讲义.md",
-    "前端内容整理/知识库/个人笔记整理/mysql基础/mysql高级/资料/images/image-20210826171726917.png",
-    "前端内容整理/知识库/个人笔记整理/mysql基础/mysql高级/eicense-hospital-ui/public/img/mock/cli/3.png",
-    "前端内容整理/知识库/个人笔记整理/mysql基础/mysql高级/eicense-hospital-ui/public/img/mock/cli/2.png",
-    "前端内容整理/知识库/个人笔记整理/mysql基础/mysql高级/eicense-hospital-ui/public/img/mock/cli/1.png",
-    "前端内容整理/知识库/个人笔记整理/mysql基础/mysql高级/eicense-hospital-ui/public/img/mock/card/card-4.jpg",
-    "前端内容整理/知识库/个人笔记整理/mysql基础/mysql高级/eicense-hospital-ui/public/img/mock/card/card-3.jpg",
-    "前端内容整理/知识库/个人笔记整理/mysql基础/mysql高级/eicense-hospital-ui/public/img/mock/card/card-2.jpg",
-    "前端内容整理/知识库/个人笔记整理/mysql基础/mysql高级/eicense-hospital-ui/public/img/mock/card/card-1.jpg",
-    "前端内容整理/知识库/个人笔记整理/mysql基础/mysql高级/eicense-hospital-ui/public/util/screen/guge.png",
-    "前端内容整理/知识库/个人笔记整理/mysql基础/mysql高级/eicense-hospital-ui/public/util/screen/huohu.png",
-    "前端内容整理/知识库/个人笔记整理/mysql基础/mysql高级/eicense-hospital-ui/README.md",
-    "前端内容整理/知识库/个人笔记整理/mysql基础/mysql高级/第19章 数据库备份与恢复.md",
-    "前端内容整理/知识库/个人笔记整理/mysql基础/mysql高级/第18章 主从复制.md",
-    "前端内容整理/知识库/个人笔记整理/mysql基础/mysql高级/第17章 其它数据库日志.md",
+    "个人情况/科普文章/音乐整理.md",
+    "❤徐广联英语27000单词词组搭配.mdx",
+    "个人情况/科普文章/HDR.md",
+    "编程内容整理/知识库/知识图谱/frontend.pdf",
+    "编程内容整理/知识库/知识图谱/frontend.pdf.crdownload",
+    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/资料/images/lanjie.png",
+    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/资料/images/zhognjianjian.png",
+    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/资料/images/shujufenpian.png",
+    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/资料/images/image-20210829230232414.png",
+    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/资料/images/image-20210829230204587.png",
+    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/资料/images/image-20210829225324607.png",
+    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/资料/images/image-20210829225110414.png",
+    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/资料/images/image-20210829224849931.png",
+    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/资料/images/image-20210829223711744.png",
+    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/资料/images/image-20210829223555681.png",
+    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/资料/04_代码/10-事务日志.sql",
+    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/资料/04_代码/09-事务的基础知识.sql",
+    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/资料/04_代码/08-数据库的其他优化策略.sql",
+    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/资料/04_代码/07-数据表的设计规范.sql",
+    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/资料/04_代码/06-索引优化与查询优化.sql",
+    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/资料/04_代码/05-EXPLAIN的使用1.sql",
+    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/资料/04_代码/04-索引的设计原则.sql",
+    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/资料/尚硅谷_宋红康_MyCat课程讲义.md",
+    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/第19章 数据库备份与恢复.md",
+    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/第18章 主从复制.md",
+    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/第17章 其它数据库日志.md",
+    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/第16章 多版本并发控制.md",
+    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/第15章 锁.md",
+    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/第14章 MySQL事务日志.md",
+    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/第13章 事务基础知识.md",
+    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/第12章 数据库其它调优策略.md",
+    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/第11章 数据库的设计规范.md",
+    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/第10章 索引优化与查询优化.md",
+    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/第09章 性能分析工具的使用.md",
+    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/第08章 索引的创建与设计原则.md",
+    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/第07章 InnoDB数据存储结构.md",
+    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/第06章 索引的数据结构.md",
+    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/第05章 存储引擎.md",
+    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/第04章 逻辑架构.md",
+    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/第03章 用户与权限管理.md",
+    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/第02章 MySQL的数据目录.md",
+    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/第01章 Linux下MySQL的安装与使用.md",
+    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/核心知识点.md",
+    "编程内容整理/知识库/个人笔记整理/mysql基础/第18章_MySQL8其它新特性.md",
+    "编程内容整理/知识库/个人笔记整理/mysql基础/第15章_存储过程与函数.md",
     "未命名.canvas",
     "note/未命名 1.canvas",
     "note/未命名.canvas"
