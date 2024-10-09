@@ -1,0 +1,15 @@
+{
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnQiOiJUT0tFTl9DTElFTlRfT0JTSURJQU4iLCJleHAiOjMxNzA4ODQ0NDIxNSwidXNlciI6IntcIm5hbWVcIjpcIuiDlueQg1wiLFwiaWRcIjpcIjY3MDUyMWZkYjdlY2RkN2I1NjRhODQ3NlwifSIsInZlcnNpb24iOiIyMDI0MDkwMSJ9.ld6G98Ua68akUANLNQeAA679Ws5zACmpr0r9Nrb93bc",
+  "user": {
+    "id": "670521fdb7ecdd7b564a8476",
+    "name": "胖球"
+  },
+  "sessionId": "148634b3-034e-4443-b15d-06b321b65d9b:9f8995714c5dd4c9",
+  "syncing": false,
+  "rootDir": "新枝",
+  "richTextDir": "笔记",
+  "linkDir": "文章",
+  "syncInterval": 60,
+  "lastSyncTime": "2024-10-09T03:24:47.868Z",
+  "enable": true
+}

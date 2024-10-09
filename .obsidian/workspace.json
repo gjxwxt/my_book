@@ -4,22 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "a98c038b9401ff67",
+        "id": "ecebbb7a2be9e7f1",
         "type": "tabs",
         "children": [
           {
-            "id": "f9177484a647bbc3",
+            "id": "a3cd06774716b381",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "个人情况/科普文章/食品添加剂.md",
                 "mode": "source",
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "2724494fe73086ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程内容整理/知识库/个人笔记整理/前端/基础类（html、css、js）/webgl/webgl入门.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "个人情况/科普文章/食品添加剂.md"
+                "file": "编程内容整理/知识库/个人笔记整理/前端/基础类（html、css、js）/webgl/webgl入门.md"
               }
             }
           },
@@ -123,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "个人情况/科普文章/食品添加剂.md",
+                "file": "编程内容整理/知识库/个人笔记整理/前端/基础类（html、css、js）/webgl/webgl入门.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,18 +155,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "个人情况/科普文章/食品添加剂.md",
+                "file": "编程内容整理/知识库/个人笔记整理/前端/基础类（html、css、js）/webgl/webgl入门.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 540.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,53 +180,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f9177484a647bbc3",
+  "active": "2724494fe73086ee",
   "lastOpenFiles": [
-    "个人情况/科普文章/音乐整理.md",
-    "❤徐广联英语27000单词词组搭配.mdx",
-    "个人情况/科普文章/HDR.md",
-    "编程内容整理/知识库/知识图谱/frontend.pdf",
-    "编程内容整理/知识库/知识图谱/frontend.pdf.crdownload",
-    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/资料/images/lanjie.png",
-    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/资料/images/zhognjianjian.png",
-    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/资料/images/shujufenpian.png",
-    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/资料/images/image-20210829230232414.png",
-    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/资料/images/image-20210829230204587.png",
-    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/资料/images/image-20210829225324607.png",
-    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/资料/images/image-20210829225110414.png",
-    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/资料/images/image-20210829224849931.png",
-    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/资料/images/image-20210829223711744.png",
-    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/资料/images/image-20210829223555681.png",
-    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/资料/04_代码/10-事务日志.sql",
-    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/资料/04_代码/09-事务的基础知识.sql",
-    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/资料/04_代码/08-数据库的其他优化策略.sql",
-    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/资料/04_代码/07-数据表的设计规范.sql",
-    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/资料/04_代码/06-索引优化与查询优化.sql",
-    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/资料/04_代码/05-EXPLAIN的使用1.sql",
-    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/资料/04_代码/04-索引的设计原则.sql",
-    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/资料/尚硅谷_宋红康_MyCat课程讲义.md",
-    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/第19章 数据库备份与恢复.md",
-    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/第18章 主从复制.md",
-    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/第17章 其它数据库日志.md",
-    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/第16章 多版本并发控制.md",
-    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/第15章 锁.md",
-    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/第14章 MySQL事务日志.md",
-    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/第13章 事务基础知识.md",
-    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/第12章 数据库其它调优策略.md",
-    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/第11章 数据库的设计规范.md",
-    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/第10章 索引优化与查询优化.md",
-    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/第09章 性能分析工具的使用.md",
-    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/第08章 索引的创建与设计原则.md",
-    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/第07章 InnoDB数据存储结构.md",
-    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/第06章 索引的数据结构.md",
-    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/第05章 存储引擎.md",
-    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/第04章 逻辑架构.md",
-    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/第03章 用户与权限管理.md",
-    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/第02章 MySQL的数据目录.md",
-    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/第01章 Linux下MySQL的安装与使用.md",
-    "编程内容整理/知识库/个人笔记整理/mysql基础/mysql高级/核心知识点.md",
-    "编程内容整理/知识库/个人笔记整理/mysql基础/第18章_MySQL8其它新特性.md",
-    "编程内容整理/知识库/个人笔记整理/mysql基础/第15章_存储过程与函数.md",
+    "编程内容整理/知识库/个人笔记整理/前端/基础类（html、css、js）/webgl/image/Pasted image 20241008135443.png",
+    "编程内容整理/知识库/个人笔记整理/前端/基础类（html、css、js）/webgl/webgl入门.md",
+    "新枝/文章/🔗 · 《如何判断一个人适不适合结婚》 之前看一档综艺有一期请了心理 - 即刻App/🔗 · 《如何判断一个人适不适合结婚》 之前看一档综艺有一期请了心理 - 即刻App.md",
+    "个人情况/科普文章/食品添加剂.md",
+    "Pasted image 20241008135443.png",
+    "编程内容整理/知识库/个人笔记整理/前端/基础类（html、css、js）/webgl/image/Pasted image 20241008135336.png",
+    "编程内容整理/知识库/个人笔记整理/前端/基础类（html、css、js）/webgl/image/Pasted image 20241008091604.png",
+    "编程内容整理/知识库/个人笔记整理/前端/基础类（html、css、js）/webgl/image/Pasted image 20241008091527.png",
+    "编程内容整理/知识库/个人笔记整理/前端/基础类（html、css、js）/webgl/image/Pasted image 20241008091500.png",
+    "编程内容整理/知识库/个人笔记整理/前端/基础类（html、css、js）/webgl/image/Pasted image 20241008091403.png",
+    "编程内容整理/知识库/个人笔记整理/前端/基础类（html、css、js）/webgl/image/Pasted image 20241008091313.png",
+    "编程内容整理/知识库/个人笔记整理/前端/基础类（html、css、js）/webgl/image/Pasted image 20241008091155.png",
+    "编程内容整理/知识库/个人笔记整理/前端/基础类（html、css、js）/webgl/image/Pasted image 20241009133246.png",
+    "编程内容整理/知识库/个人笔记整理/前端/基础类（html、css、js）/webgl/image",
+    "个人情况/读书笔记/埃隆·马斯克传.md",
+    "个人情况/文学/30天成语（9.9-10.9）/idiom.md",
+    "note/2024-10-08.md",
+    "新枝/文章/🔗 · 《如何判断一个人适不适合结婚》 之前看一档综艺有一期请了心理 - 即刻App",
+    "新枝/笔记",
+    "新枝/文章",
+    "新枝",
+    "编程内容整理/知识库/个人笔记整理/前端/基础类（html、css、js）/webgl",
+    "编程内容整理/知识库/前端每日一题/每日一题.md",
+    "编程内容整理/知识库/个人笔记整理/后端/NestJs/新一代Node框架-NestJS入门到项目实战.md",
+    "编程内容整理/知识库/个人笔记整理/后端/NestJs/img",
+    "编程内容整理/知识库/个人笔记整理/后端/NestJs/新一代Node框架-NestJS入门到项目实战.html",
+    "编程内容整理/知识库/个人笔记整理/后端/NestJs",
+    "编程内容整理/知识库/个人笔记整理/后端/mysql基础/mysql高级/资料/04_代码/10-事务日志.sql",
+    "编程内容整理/知识库/个人笔记整理/后端/mysql基础/mysql高级/资料/尚硅谷_宋红康_MyCat课程讲义.md",
+    "编程内容整理/知识库/个人笔记整理/后端/mysql基础/mysql高级/第19章 数据库备份与恢复.md",
+    "编程内容整理/知识库/个人笔记整理/后端/mysql基础/mysql高级/第18章 主从复制.md",
+    "编程内容整理/知识库/个人笔记整理/后端/mysql基础/mysql高级/第17章 其它数据库日志.md",
+    "编程内容整理/知识库/个人笔记整理/后端/mysql基础/mysql高级/第16章 多版本并发控制.md",
+    "编程内容整理/知识库/个人笔记整理/后端/mysql基础/mysql高级/第15章 锁.md",
+    "编程内容整理/知识库/个人笔记整理/后端/mysql基础/mysql高级/第14章 MySQL事务日志.md",
+    "编程内容整理/知识库/个人笔记整理/后端/mysql基础/mysql高级/第13章 事务基础知识.md",
+    "编程内容整理/知识库/个人笔记整理/后端/mysql基础/mysql高级/第12章 数据库其它调优策略.md",
+    "编程内容整理/知识库/个人笔记整理/后端/mysql基础/mysql高级/第11章 数据库的设计规范.md",
+    "编程内容整理/知识库/个人笔记整理/后端/mysql基础/mysql高级/第10章 索引优化与查询优化.md",
+    "编程内容整理/知识库/个人笔记整理/后端/mysql基础/mysql高级/第09章 性能分析工具的使用.md",
+    "编程内容整理/知识库/个人笔记整理/后端/mysql基础/mysql高级/第08章 索引的创建与设计原则.md",
+    "编程内容整理/知识库/个人笔记整理/后端/mysql基础/mysql高级/第07章 InnoDB数据存储结构.md",
+    "编程内容整理/知识库/个人笔记整理/后端/mysql基础/mysql高级/第06章 索引的数据结构.md",
+    "编程内容整理/知识库/个人笔记整理/后端/mysql基础/mysql高级/第05章 存储引擎.md",
+    "编程内容整理/知识库/个人笔记整理/后端/mysql基础/mysql高级/第04章 逻辑架构.md",
     "未命名.canvas",
     "note/未命名 1.canvas",
     "note/未命名.canvas"
